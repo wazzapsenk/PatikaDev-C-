@@ -41,7 +41,7 @@ namespace diziler
             
             Console.WriteLine("Ortalama:" + toplam/n);
 
-            //Hackerrank MinesPlus
+            //Hackerrank PlusMinus
 
              {
         double positive=0;
